@@ -1,0 +1,1 @@
+# dinamically-animated-small-text
